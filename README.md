@@ -1,4 +1,4 @@
-# Web-Teknolojileri
+# WEB 3.0 (Proje Ödevi)
 
 ###   Projenin Amacı:
 - HTML CSS JS kullanarak bir web sitesi oluşturacağız. Kendimiz ve seçtiğimiz bir şehir ile alakalı bilgiler vereceğiz ve bir API bağlantısı yapacağız.
