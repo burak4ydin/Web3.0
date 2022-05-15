@@ -34,3 +34,4 @@
 	- Hangi şehri seçtiysem gerekli bilgilerin toplanması
 	- Biraz kodlama biraz bootstrap araştırması
 	- Son kontroller
+	- Teslim
